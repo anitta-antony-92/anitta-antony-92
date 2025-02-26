@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Anitta Antony 👋
 
-<!--
-**anitta-antony-92/anitta-antony-92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Data & Devops enthusiast passionate about building scalable systems and solving data-related challenges.  
+Here, I share my projects and learning journey in DevOps, cloud computing, and data engineering.
 
-Here are some ideas to get you started:
+## Skills
+- **DevOps**: Docker, Kubernetes, AWS, CI/CD, Terraform
+- **Data**: Python, SQL, Pandas, Data Visualization
+- **Tools**: Git, GitHub Actions, Jenkins, Ansible
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## Current Focus
+- Building DevOps projects to automate and optimize workflows.
+- Exploring data engineering and machine learning.
+
+## Projects
+- [Flask Microservice with Docker and AWS EC2](https://github.com/anitta-antony-92/devops-portfolio)
+- More coming soon!
+
+## Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/anitta-antony-here/)
+- 
+- 
 -->
